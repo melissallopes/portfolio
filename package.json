@@ -17,5 +17,4 @@
   }
 }
 
-    /*run node sass program, w- Watch for scss folder and o- Output in the dist/css 
-    folder and recursive to not have issues with partials and auto-reload*/
+  
