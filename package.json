@@ -5,7 +5,6 @@
   "main": "index.js",
   "homepage": "https://melissallopes.github.io/portfolio",
   "scripts": {
-
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
   },
@@ -16,5 +15,3 @@
     "node-sass": "^4.14.0"
   }
 }
-
-  
